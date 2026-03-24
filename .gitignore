@@ -1,0 +1,60 @@
+# ----------------------------
+# Python cache files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+venv/
+env/
+.venv/
+
+# ----------------------------
+# VS Code / IDE files
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# Temporary / junk files
+# ----------------------------
+tempCodeRunnerFile.py
+*.tmp
+*.log
+
+# ----------------------------
+# OS-specific files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Streamlit cache
+# ----------------------------
+.streamlit/
+
+# ----------------------------
+# Matplotlib cache
+# ----------------------------
+.matplotlib/
+
+# ----------------------------
+# Environment variables (important)
+# ----------------------------
+.env
+
+# ----------------------------
+# Optional: dataset (see note below)
+# ----------------------------
+# synthetic_landslide_dataset.csv
+
+# ----------------------------
+# Build / packaging
+# ----------------------------
+build/
+dist/
+*.egg-info/
